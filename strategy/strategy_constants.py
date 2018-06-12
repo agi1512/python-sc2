@@ -3,6 +3,8 @@ from sc2.constants import *
 # NOTE: you may need to adapt folder_sc2replays
 # NOTE: constants are partially tailored to Terran specific units due to underlying data set
 
+# To enable/disable viewer change starcraft_viewer = True/False in main.py
+
 # Files -----------------------------------------------------------------------
 
 # File endings
@@ -61,6 +63,7 @@ sufficently_much_vespene = sufficently_enough_vespene + 150 # additional Planeta
 
 
 # Game settings ---------------------------------------------------------------
+
 
 # Number of games to play
 eval_number_games = 1
