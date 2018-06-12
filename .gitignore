@@ -17,3 +17,5 @@ maps/
 mini_games/
 
 *.SC2Replay
+
+\.vs/
